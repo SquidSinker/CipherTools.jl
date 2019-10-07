@@ -1,0 +1,4 @@
+name = "CipherTools"
+uuid = "8a53bf8d-0e9f-4c44-8c89-c54709ec6e32"
+authors = ["SquidSinker <42100424+SquidSinker@users.noreply.github.com>"]
+version = "0.1.0"
